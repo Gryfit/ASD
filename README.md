@@ -2,7 +2,7 @@
 Algorithms and data structures, WIET AGH
 This repo consist of my own implementations of common algorithms.
 
-1)Sorting algorithms:
+1)Sorting algorithms (on lists and tables):
 
 	a)insertion sort
 	
