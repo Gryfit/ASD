@@ -6,7 +6,7 @@ This repo consist of my own implementations of common algorithms.
 
 	a)insertion sort
 	
-	b)buble sort
+	b)bubble sort
 	
 	c)selection sort
 	
